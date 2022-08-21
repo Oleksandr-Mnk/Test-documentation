@@ -4,3 +4,4 @@ Here you can find:
   2. Example of test cases made in TestRail
   3. Checklist for Domino's Pizza site
   4. Bug reports examples
+  5. Checklist for mobile app
