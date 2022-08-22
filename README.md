@@ -5,3 +5,6 @@ Here you can find:
   3. Checklist for Domino's Pizza site
   4. Bug reports examples
   5. Checklist for mobile app
+  6. Checklist for API testing
+  7. Test cases for API testing 
+  
