@@ -6,5 +6,6 @@ Here you can find:
   4. Bug reports examples
   5. Checklist for mobile app
   6. Checklist for API testing
-  7. Test cases for API testing 
+  7. Test cases for API testing
+  8. Master test plan
   
